@@ -13,6 +13,7 @@
 #include "Offline.h"
 #include "Online.h"
 
+
 void reverseArray(int *, int *, int);
 
 BinP runOfflineFirstFit(int *binSizes, int sizeOfBinArray , int *items, int itemsSize){
